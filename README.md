@@ -12,7 +12,7 @@
 
 # Some Stuff About Me
 - 🔭 I’m currently working on Web Development in general.
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning React Native & SQL.
 - 👯 I’m looking to collaborate on big web application projects.
 - 🤔 I’m looking for help with Back End Web Development.
 - 💬 Ask me about, basically anything! :)

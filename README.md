@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARS-coding&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
-# Some Stuff About Me
+# Some stuff about me...
 - 🔭 I’m currently working on Web Development in general.
 - 🌱 I’m currently learning React Native & SQL.
 - 👯 I’m looking to collaborate on big web application projects.

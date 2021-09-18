@@ -1,12 +1,12 @@
 ### Hello There! 👋
 
-<h1 align="center">My stats...</h1>
 <p align="center">
+  <h1 align="center">My stats...</h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARS-coding&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
 </p>
 
-<h1 align="center">What I Have Been Working On...</h1>
 <p align="center">
+  <h1 align="center">Technologies that I have been using recently...</h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARS-coding&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 

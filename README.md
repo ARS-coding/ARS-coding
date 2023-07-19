@@ -14,10 +14,7 @@
 
 # Some stuff about me...
 - 🔭 I’m currently working on Web Development in general.
-- 🌱 I’m currently learning React Native & SQL.
+- 🌱 I’m currently learning growing on the field of Backend Development.
 - 👯 I’m looking to collaborate on big web application projects.
-- 🤔 I’m looking for help with Back End Web Development.
 - 💬 Ask me about, basically anything! :)
-- 📫 How to reach me: +90 537 779 5060
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I usually eat a mandarin fruit directly after I wake up, even before drinking some water. :D
+- 📫 How to reach me: arsahin.dev@gmail.com
